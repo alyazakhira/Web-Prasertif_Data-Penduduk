@@ -1,0 +1,98 @@
+/*All Page Style*/
+body{
+    background-image: url(media/SL_043021_42650_12.jpg);
+    z-index: -1;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sticky-top{
+    margin-top: 50px;
+}
+
+.banner-text{
+    background-color: #ffa480b0;
+    color: white;
+    height: fit-content;
+}
+
+.banner{
+    background-image: url(media/SL_043021_42650_12.jpg);
+}
+
+.nav-link{
+    padding: 15px;
+}
+
+.nav-side{
+    background-color: #1a2954;
+    text-decoration: none;
+}
+
+.nav-menu{
+    background-color: #ff7f4d;
+}
+
+.nav-pills{
+    --bs-nav-pills-link-active-bg: white;
+    --bs-nav-pills-border-radius: 0;
+    --bs-nav-pills-link-active-color: #1a2954;
+}
+.nav-menu .nav-link{
+    color:white;
+}
+
+.nav-side .nav-link{
+    color:white;
+}
+
+.row{
+    margin: 0 !important;
+}
+
+.content-head{
+    margin-top: 4rem;
+    background-color:#1a2954;
+    color: white;
+}
+
+.content-head p{
+    padding: 10px;
+}
+
+.footer-content{
+    background-color:#1a2954;
+    color: white;
+}
+
+/*Page 1 Style*/
+.chart{
+    width: 100%;
+    min-height: 450px;
+}
+
+.article{
+    background-color:white;
+    color:black;
+}
+
+/*Page 2 Style*/
+.table{
+    margin-top: 3rem;
+    --bs-table-striped-bg: #1a295444;
+}
+
+.form-content{
+    margin-top: 3rem;
+}
+
+
+.wrapper-sign{
+    border: 1px solid;
+}
+
+
